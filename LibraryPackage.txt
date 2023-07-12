@@ -1,0 +1,13 @@
+Submission A
+Untuk Case 1, 2, 3, dan 5 menggunakan package :
+pillow : 8.4.0
+tensorflow : 2.10.1
+tensorflow-datasets : 4.4.0
+protobuf : 3.19.6
+
+untuk Case 4
+protobuf : 3.20
+
+Submission B
+
+Submission C
